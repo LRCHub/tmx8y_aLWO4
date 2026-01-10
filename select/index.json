@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マッチ売りの転売ヤー / 鏡音リン",
+  "base_artist": "謎J",
+  "createdAt": "2026-01-10T12:14:44.603125Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マッチ売りの転売ヤー",
+      "artist": "謎J",
+      "has_synced": false,
+      "path": "select/pl_01_マッチ売りの転売ヤー_謎J.txt"
+    }
+  ]
+}
